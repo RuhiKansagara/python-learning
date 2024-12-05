@@ -1,0 +1,81 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+coverage.xml
+*.log
+*.test
+.cache/
+
+# Django specific
+*.sqlite3
+db.sqlite3
+
+# Pyre type checker
+.pyre/
+
+# Flask instance folder
+instance/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pyright type checker
+.pyright/
+
+# MyPy type checker
+.mypy_cache/
+
+# Pylint
+.pylint.d/
+
+# Bandit security scanner
+.bandit/
+
+# Additional
+*.env
+*.ini
+*.cfg
+*.bak
+*.swp

@@ -1,2 +1,2 @@
 # python-learning
-This repository serves as a comprehensive guide to mastering advanced Python concepts. It is organised into subfolders, each dedicated to a specific advanced topic
+A comprehensive guide to advanced Python programming concepts and practices. This repository explores in-depth topics such as decorators, metaclasses, and context managers; advanced data structures and algorithms; object-oriented and functional programming; concurrency and parallelism; and file handling. It also covers advanced libraries, testing, debugging, performance tuning, security, and Python's role in DevOps, machine learning, and big data. Ideal for developers looking to master Python and its vast ecosystem.
